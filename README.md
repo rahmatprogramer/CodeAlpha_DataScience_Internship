@@ -46,7 +46,7 @@ This repository contains the tasks I completed during my **Data Science Internsh
 
 - 📊 **ROI Analysis:** 15% sales increase with promotions
 - 🛠 **Tech:** Regression Models, Visualization
-- 📁 [View Code →](./Task4_Sales_Prediction/)
+- 📁 [View Code →](./CodeAlpha_SalesPrediction)
 
 **Key Features:**
 - Sales forecasting using Random Forest
