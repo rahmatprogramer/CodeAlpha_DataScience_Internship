@@ -31,7 +31,7 @@ This repository contains the tasks I completed during my **Data Science Internsh
 
 - 📉 **Key Insight:** 4.5% unemployment spike during COVID-19
 - 🛠 **Tech:** Pandas, Seaborn, Matplotlib
-- 📁 [View Code →](./Task2_Unemployment_Analysis/)
+- 📁 [View Code →](./CodeAlpha_UnemploymentAnalysis)
 
 **Key Features:**
 - Time series analysis of unemployment rates
