@@ -16,7 +16,7 @@ This repository contains the tasks I completed during my **Data Science Internsh
 
 - 📈 **Accuracy:** 97.8% with Random Forest
 - 🛠 **Tech:** Scikit-learn, Pandas, Matplotlib
-- 📁 [View Code →](./Task1_Iris_Classification/)
+- 📁 [View Code →](./CodeAlpha_IrisClassification)
 
 **Key Features:**
 - Built Random Forest Classifier
